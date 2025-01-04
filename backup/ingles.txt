@@ -1,0 +1,15 @@
+
+Você: hi
+IA: Excelente! Estou ansioso para começar nossa conversa em inglês!
+
+Sua pergunta inicial foi: "hi"
+
+Tradução: "Olá" (um cumprimento simples)
+
+Observação: Sua pergunta é muito curta e não inclui uma frase completa. Em português, quando alguém nos diz "olá", nós respondemos com algo mais do que apenas "olá". Nós podemos perguntar como você está, o que faz ou simplesmente dar continuidade à conversa.
+
+Vou responder: "Hi! How's it going?"
+
+Tradução: "Olá! Como você está indo?"
+
+Pergunta para você: Como você está hoje?
